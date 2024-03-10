@@ -1,0 +1,13 @@
+{
+  "main": "accounts-api.raml",
+  "name": "Accounts API",
+  "groupId": "08033321-bb0d-43a8-a57f-1f260615b9d2",
+  "assetId": "accounts-api",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0",
+  "organizationId": "08033321-bb0d-43a8-a57f-1f260615b9d2",
+  "apiVersion": "v1",
+  "originalFormatVersion": "1.0"
+}
